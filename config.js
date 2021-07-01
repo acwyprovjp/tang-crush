@@ -1,8 +1,9 @@
 const CONFIG = {
-    introTitle: 'Mi à!',
-    introDesc: `mình là quang
-    chỉ là bấy lâu nay
-    mình thích bạn`,
+    introTitle: 'Ly à!',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
@@ -14,4 +15,6 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Chúng ta bắt đầu chứ??.',
     btnAccept: 'Okiiiii lun <3',
+    messLink: 'https://www.facebook.com/tit.tuan.58726' //link mess của các bạn. VD: https://m.me/nam.nodemy
+}
     
